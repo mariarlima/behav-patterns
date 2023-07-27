@@ -1,5 +1,5 @@
 # Discovering Behavioural Patterns Using Conversational Technology
-This repository contains the code for data analysis and publishing figures of the paper _Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring_, which can be accessed [here](https://ieeexplore.ieee.org/document/10168160). 
+This repository contains the code for data analysis and publishing figures of the [paper](https://ieeexplore.ieee.org/document/10168160) _Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring_. 
 
 ## Aim
 - This study aims to investigate the integration of conversational agents in smart environments. 
