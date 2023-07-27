@@ -20,9 +20,11 @@ To install DCARTE:
 ### Datasets
 All datasets used in this study are from the household subset. IDs were given to participant households to protect privacy. For the same reason, the content of Alexa interactions is not provided in the datasets shared in this repository.
 
-- _df_activity.pkl_: aggregated in-home activity data.
+- _df_activity.pkl_: aggregated in-home activity data.<sup>[*]</sup>
 - _df_alexa.pkl_: Alexa data for investigating the prevalence of interactions and topics of interest beyond the novelty phase.
 - _df_topic_embed.pkl_: Alexa data used for topic modelling with embeddings for each utterance (768-dimensional vector).  
+
+<sub><sup>[*]</sup>Note: due to file size limitations, a reduced version of this dataset is included in this repository</sub>
 
 ## Analysis Overview
 Broadly, our analysis inspects: 
