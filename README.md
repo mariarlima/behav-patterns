@@ -37,9 +37,9 @@ Broadly, our analysis inspects:
 
 ## Citing 
 
-If you use or refer to the infrastructure, methods or data flow  introduced please cite the [original paper](https://ieeexplore.ieee.org/document/10168160):
+If you use or refer to the infrastructure, methods or data flow introduced please cite the [original paper](https://ieeexplore.ieee.org/document/10168160):
 
-<sub>Lima, Maria R., Ting Su, Melanie Jouaiti, Maitreyee Wairagkar, Paresh Malhotra, Eyal Soreq, Payam Barnaghi, and Ravi Vaidyanathan. "Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring." _IEEE Internet of Things Journal_ (2023).</sub>
+<sub>Lima, M.R., Su, T., Jouaiti, M., Wairagkar, M., Malhotra, P., Soreq, E., Barnaghi, P. and Vaidyanathan, R., 2023. Discovering Behavioural Patterns Using Conversational Technology for in-Home Health and Well-being Monitoring. _IEEE Internet of Things Journal_.</sub>
 
 ## License
 This work is licensed under a [Creative Commons Attribution 4.0 License]( https://creativecommons.org/licenses/by/4.0/). 
