@@ -36,6 +36,15 @@ Broadly, our analysis inspects:
 
 3. Alexa usage in the week after health events occurred (information logged by a monitoring team, as detailed in Section III of the paper).
 
+### Code
+- [utils](./utils/) includes Python modules with functions called in the main notebooks.
+- [data_home.ipynb](./data_home.ipynb/) provides the pipeline for mining Alexa interactions and in-home data and includes figures generated for the paper.
+- [topics_prevalence.ipynb](./topics_prevalence.ipynb/) inspects the prevalence of topics over time per user including and includes figures generated for the paper.
+- [topic_modelling.ipynb](./topic_modelling.ipynb/) provides the pipeline to cluster the topics from user utterances.
+- [activity_seq.ipynb](./activity_seq.ipynb/) provides the pipeline to analyse activity sequences using a pairwise similarity measure and clustering to discern behavioural patterns on the household level.
+- [stats_health_events.ipynb](./stats_health_events.ipynb/) examines individual health events to explore whether participants continued using Alexa during the week following the occurrence of health outcomes.  
+
+
 ## Citing 
 
 If you use or refer to the infrastructure, methods or data flow introduced please cite the [original paper](https://ieeexplore.ieee.org/document/10168160):
