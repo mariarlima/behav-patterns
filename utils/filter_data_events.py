@@ -11,7 +11,7 @@ DATA FILTERING USING HEALTH EVENTS
 def seven_days(df, pid, health_events):
     """
     Compute arrays with total usage before and after health events 
-    lus the difference between the 2 periods
+    plus the difference between the 2 periods
     """
     pid = pid
     df_p=df.query('@pid in patient_id')
